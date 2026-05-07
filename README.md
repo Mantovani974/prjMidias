@@ -1,2 +1,2 @@
 # prjMidias
-Arquivos de materiais relacionados ao prjMidias
+Arquivos de materiais de apoio nos estudos de vocês 
